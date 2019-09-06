@@ -1,2 +1,4 @@
 # myStatus
-rede social para rápidas mensagens, sim, parecido com twitter
+## A social network
+
+This is a social network future project...wait
